@@ -1,19 +1,19 @@
 {
-	"name": "vscode-simple-readme",
-	"displayName": "Simple Readme",
-	"description": "Generate readme fastly and simply with Simple Readme",
+	"name": "vscode-simpler-readme",
+	"displayName": "Simpler Readme",
+	"description": "Generate readme fastly and simply with Simpler Readme",
 	"publisher": "maurodesouza",
 	"author": "Mauro de Souza",
 	"license": "MIT",
 	"icon": "simple-readme-icon.png",
 	"version": "1.0.0",
-	"homepage": "https://github.com/maurodesouza/vscode-simple-readme",
+	"homepage": "https://github.com/the-suggestor/vscode-simple-readme",
 	"bugs": {
-		"url": "https://github.com/maurodesouza/vscode-simple-readme/issues"
+		"url": "https://github.com/the-suggestor/vscode-simple-readme/issues"
   },
 	"repository": {
     "type": "git",
-    "url": "https://github.com/maurodesouza/vscode-simple-readme.git"
+    "url": "https://github.com/the-suggestor/vscode-simple-readme.git"
 	},
 	"engines": {
 		"vscode": "^1.48.0"

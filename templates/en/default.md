@@ -1,95 +1,129 @@
-<div align="center" id="top"> 
-  <img src="./.github/app.gif" alt="{{app_name}}" />
+<div align="center">
 
-  &#xa0;
+# {{app_name}}
 
-  <!-- <a href="https://{{app_url}}.netlify.app">Demo</a> -->
+[![Github top language](https://img.shields.io/github/languages/top/{{github}}/{{repository}}?color=56BEB8)]()
+[![Github language count](https://img.shields.io/github/languages/count/{{github}}/{{repository}}?color=56BEB8)]()
+[![Repository size](https://img.shields.io/github/repo-size/{{github}}/{{repository}}?color=56BEB8)]()
+[![Github issues](https://img.shields.io/github/issues/{{github}}/{{repository}}?color=56BEB8)]()
+<!-- [![License](https://img.shields.io/github/license/{{github}}/{{repository}}?color=56BEB8)](/LICENSE) -->
+<!-- [![Github forks](https://img.shields.io/github/forks/{{github}}/{{repository}}?color=56BEB8)]() -->
+<!-- [![Github stars](https://img.shields.io/github/stars/{{github}}/{{repository}}?color=56BEB8)]() -->
+
 </div>
-
-<h1 align="center">{{app_name}}</h1>
-
-<p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/{{github}}/{{repository}}?color=56BEB8">
-
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/{{github}}/{{repository}}?color=56BEB8">
-
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/{{github}}/{{repository}}?color=56BEB8">
-
-  <img alt="License" src="https://img.shields.io/github/license/{{github}}/{{repository}}?color=56BEB8">
-
-  <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/{{github}}/{{repository}}?color=56BEB8" /> -->
-
-  <!-- <img alt="Github forks" src="https://img.shields.io/github/forks/{{github}}/{{repository}}?color=56BEB8" /> -->
-
-  <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/{{github}}/{{repository}}?color=56BEB8" /> -->
-</p>
 
 <!-- Status -->
 
-<!-- <h4 align="center"> 
+<!-- <h4 align="center">
 	🚧  {{app_name}} 🚀 Under construction...  🚧
-</h4> 
+</h4>
 
 <hr> -->
 
-<p align="center">
-  <a href="#dart-about">About</a> &#xa0; | &#xa0; 
-  <a href="#sparkles-features">Features</a> &#xa0; | &#xa0;
-  <a href="#rocket-technologies">Technologies</a> &#xa0; | &#xa0;
-  <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
-  <a href="#checkered_flag-starting">Starting</a> &#xa0; | &#xa0;
-  <a href="#memo-license">License</a> &#xa0; | &#xa0;
-  <a href="https://github.com/{{github}}" target="_blank">Author</a>
-</p>
+<div align="center">
 
-<br>
+[About](#about)
+| [Built with](#built_with)
+| [Getting Started](#getting_started)
+| [Usage](#usage)
+| [Testing](#testing)
+| [Deployment](#deployment)
+| [Code Style Guide](#code-style-guide)
+| [Other Repositories](https://github.com/{{github}})
+<!-- | [Screenshots](#screenshots) -->
+<!-- | [Live Demo](#live-demo) -->
 
-## :dart: About ##
+</div>
+---
 
-Describe your project
+## :dart: About <a name = "about"></a>
 
-## :sparkles: Features ##
+<!-- Describe your project -->
 
-:heavy_check_mark: Feature 1;\
-:heavy_check_mark: Feature 2;\
-:heavy_check_mark: Feature 3;
+## :rocket: Built with <a name = "built_with"></a>
 
-## :rocket: Technologies ##
-
-The following tools were used in this project:
-
-- [Expo](https://expo.io/)
-- [Node.js](https://nodejs.org/en/)
+- [NodeJS](https://nodejs.org/en/)
 - [React](https://pt-br.reactjs.org/)
+<!--
+- [Express](https://expressjs.com/)
+- [MongoDB](https://www.mongodb.com/)
 - [React Native](https://reactnative.dev/)
+- [VueJS](https://vuejs.org/)
+- [Expo](https://expo.io/)
 - [TypeScript](https://www.typescriptlang.org/)
+-->
 
-## :white_check_mark: Requirements ##
+## 🏁 Getting Started <a name = "getting_started"></a>
 
-Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) and [Node](https://nodejs.org/en/) installed.
+### :white_check_mark: Prerequisites <a name = "prerequisites"></a>
 
-## :checkered_flag: Starting ##
+- [Git](https://git-scm.com)
+- [Node](https://nodejs.org/en/)
+-
+
+### :checkered_flag: Installation <a name = "installation"></a>
 
 ```bash
-# Clone this project
 $ git clone https://github.com/{{github}}/{{repository}}
-
-# Access
 $ cd {{repository}}
-
-# Install dependencies
+```
+<!--
+Install dependencies
+```bash
 $ yarn
-
-# Run the project
-$ yarn start
-
-# The server will initialize in the <http://localhost:3000>
 ```
 
-## :memo: License ##
+Run the project
+```bash
+$ yarn start
+```
 
-This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
+The server will initialize in `<http://localhost:3000>`
+-->
 
+## 🎈 Usage <a name="usage"></a>
+
+<!-- Add notes about how to use the system. -->
+
+## 🔧 Testing <a name = "testing"></a>
+
+<!-- Explain how to run the automated tests for this system. -->
+
+### Unit tests
+
+<!-- Explain how to run the automated tests for this system.
+
+```
+Give an example
+```
+-->
+
+### Integration tests
+
+<!-- Explain how to run the automated tests for this system.
+
+```
+Give an example
+```
+-->
+
+
+## 🚀 Deployment <a name = "deployment"></a>
+
+<!-- > Add notes about how to deploy this on a live system. -->
+
+## ✍️ Code Style Guide <a name = "code-style-guide"></a>
+
+<!-- Brief or link to guide -->
+
+
+<!-- ## Screenshots <a name = "screenshots"></a> -->
+
+
+
+<!-- ## Live demo <a name = "live-demo"></a> -->
+
+___
 
 Made with :heart: by <a href="https://github.com/{{github}}" target="_blank">{{author}}</a>
 

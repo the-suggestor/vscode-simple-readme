@@ -1,11 +1,11 @@
-<h1>Simple Readme</h1>
+<h1>Simpler Readme</h1>
 
-Generate readme fastly and simply with Simple Readme
+Generate readme fastly and simply with Simpler Readme
 
 <br>
 
 <div align="center">
-  <img src="./.github/vscode-simple-readme.gif" alt="Simple Readme Gif"/>
+  <img src="./.github/vscode-simple-readme.gif" alt="Simpler Readme Gif"/>
 </div>
 
 <br>
